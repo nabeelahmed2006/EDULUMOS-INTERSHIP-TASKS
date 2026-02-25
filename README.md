@@ -8,6 +8,8 @@ This project is a real-time Face Detection System built using Python and the Ope
 
 TASK 2:
 
-Face Recognition Based Attendance System
- Project Overview
+Face Recognition Based Attendance System:
+
+Project Overview
+
 This project is an automated Attendance Management System that uses Computer Vision and Machine Learning to recognize faces and log attendance in real-time. It eliminates the need for manual registers by identifying users through a webcam and storing their attendance data (Name and Timestamp) in a CSV file.
